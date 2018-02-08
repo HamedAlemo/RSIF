@@ -1,4 +1,4 @@
-<a href="https://zenodo.org/badge/latestdoi/40261220"><img src="https://zenodo.org/badge/40261220.svg" alt="DOI"></a>
+<a href="https://zenodo.org/badge/latestdoi/120044954"><img src="https://zenodo.org/badge/120044954.svg" alt="DOI"></a>
 
 # RSIF
 This repository contains source code for training a feed forward neural network to reconstruct Solar Induced Fluorescence (SIF) from MODIS instrument surface reflectance observations. 
