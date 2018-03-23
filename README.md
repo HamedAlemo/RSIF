@@ -5,4 +5,4 @@ This repository contains source code for training a feed forward neural network 
 Details of the methodolody can be found in the following manuscript:
 
 
-Gentine P., Alemohammad S.H. (2018) Reconstructed Solar-Induced Fluorescence: A Machine Learning Vegetation Product Based on MODIS Surface Reflectance to Reproduce GOME-2 Solar-Induced Fluorescence, Geophysical Research Letters, DOI: 10.1002/2017GL076294. 
+Gentine, P., & Alemohammad, S. H. (2018). Reconstructed Solar-Induced Fluorescence: A machine learning vegetation product based on MODIS surface reflectance to reproduce GOME-2 solar-induced fluorescence. Geophysical Research Letters, 45. https:// doi.org/10.1002/2017GL076294
